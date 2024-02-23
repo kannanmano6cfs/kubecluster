@@ -1,6 +1,8 @@
 #!/bin/sh
 
 ##Setup Hostname
+##Kannan Manoharan
+##VMware Certified Instructor and Microsoft Certified Trainer
 hostnamectl set-hostname worker1
 
 ### Prerequisites
